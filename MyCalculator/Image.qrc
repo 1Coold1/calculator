@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Icons/equal.png</file>
+        <file>Icons/minus.png</file>
+        <file>Icons/plus.png</file>
+        <file>Icons/equalPressed.png</file>
+        <file>Icons/minusPressed.png</file>
+        <file>Icons/plusPressed.png</file>
+        <file>Icons/plus2.png</file>
+        <file>Icons/equal2.png</file>
+        <file>Icons/minus2.png</file>
+        <file>Icons/icon.png</file>
+        <file>Icons/back.png</file>
+        <file>Icons/next.png</file>
+    </qresource>
+</RCC>
